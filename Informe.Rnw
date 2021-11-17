@@ -5,6 +5,10 @@
 \SweaveOpts{concordance=TRUE}
 
 Hola mundo, aqui de nuevo 
+<<>>=
+2+2 
+
+@
 
 \begin{gnuplot}[terminal=cairolatex]
 plot x
