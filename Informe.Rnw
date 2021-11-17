@@ -14,7 +14,8 @@ estadistica <- function(x){
   tabla[z,"DE"] <- sd(x)
   tabla
 }
-estadistica(a)
+estadistica(a) 
+ b <- c(1,2,3)
 @
 
 
